@@ -1,7 +1,6 @@
 from module import PokerDealer,Player,PointModule,insert_game_head,insert_players
 from treys import Card
 import mysql.connector
-from mysql.connector import errorcode
 
 # 主程序
 if __name__ == "__main__":
