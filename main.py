@@ -1,8 +1,8 @@
 from module import PokerDealer,Player,PointModule,insert_game_head,insert_players
 from treys import Card
-import mysql.connector
+import mysql.connector 
 
-# 主程序
+# 主程序22
 if __name__ == "__main__":
     # 建立数据库连接
     try:
